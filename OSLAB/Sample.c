@@ -22,3 +22,4 @@ void swap (int a, int b)
     a=b;  
     b=temp;  
     printf("After swapping values in function a = %d, b = %d\n",a,b); 
+}
