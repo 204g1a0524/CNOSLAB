@@ -1,0 +1,8 @@
+<pre>Enter the number of processes --- 1
+Enter the Burst Time &amp; Priority of Process 0 --- 2
+2
+
+PROCESS		PRIORITY	BURST TIME	WAITING TIME	TURNAROUNDTIME
+0 		 2 		 2 		 0 		 2 
+Average Waiting Time is --- 0.000000
+AverageTurnaround Time is --- 2.000000</pre>
